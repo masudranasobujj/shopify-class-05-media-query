@@ -1,0 +1,195 @@
+@media (max-width: 1399px){
+	.hero-banner-section {
+    padding: 200px 0px;
+	}
+	.hero-banner-content p {
+    padding: 15px 50px;
+	}
+	.hero-banner-content a {
+    font-size: 18px;
+    padding: 16px 20px;
+	}
+	.portfolio-section {
+    padding: 100px 0px;
+	}
+	.portfolio-section .container {
+    padding: 0px 50px;
+	}
+	.portfolio-section .col-2 .portfolio-image {
+    padding: 0 25px;
+	}
+	.portfolio-section .col-2 .portfolio-content {
+    padding-right: 65px;
+	}
+
+	.my-plans-section .container h4 {
+    line-height: 47px;
+	}
+
+	.my-plans-section .container .my-plans {
+    margin: 50px 0px 130px 0px;
+    }
+
+	.my-plans-section .container .my-plans .col-4 .my-plans-box img {
+    height: 70px;
+	}
+	.my-plans-section .container .my-plans .col-4 .my-plans-box h3 {
+    	font-size: 26px;
+    	margin: 10px 0px;
+	}
+	.my-plans-section .container .my-plans .col-4 .my-plans-box p {
+	    font-size: 20px;
+	}
+	.call-now-section .container {
+    max-width: calc( 100% - 50px);
+	}
+	.call-now-content h3 {
+    font-size: 38px;
+    max-width: 500px;
+	}
+	.call-now-content a {
+    font-size: 18px;
+    padding: 18px 35px;
+	}
+	footer {
+    padding: 100px 0px;
+	}
+}
+
+
+@media (max-width: 1199px){
+	.hero-banner-section {
+    padding: 170px 0px;
+	}
+	.portfolio-section {
+    padding: 80px 0px;
+	}
+	.portfolio-section .col-2 .portfolio-content {
+    padding-right: 5px;
+	}
+	.portfolio-section .col-2 .portfolio-image {
+    padding: 0 30px;
+	}
+	.my-plans-section .container {
+    padding: 0px 20px;
+	}
+	footer .container {
+    max-width: calc( 100% - 50px);
+	}
+	footer .footer-content-left .social-link ul {
+    margin-top: 0px;
+	}
+	footer .footer-content-right .subscribe form input[type="email"] {
+    padding: 15px;
+	}
+	footer .footer-content-right .subscribe form input[type="submit"] {
+    padding: 15px 30px;
+	}
+}
+
+
+@media (max-width: 991px){
+	.hero-banner-content {
+    padding: 0px 70px;
+	}
+	.hero-banner-content h1 {
+    font-size: 55px;
+	}
+	.hero-banner-content a {
+    font-size: 16px;
+    padding: 12px 16px;
+	}
+	.portfolio-section .container {
+    flex-direction: column-reverse;
+	}
+	.portfolio-section .col-2 .portfolio-image {
+    padding: 0px 80px 50px;
+	}
+	.my-plans-section .container .my-plans .col-4 {
+    flex-basis: 50%;
+    margin-bottom: 50px;
+	}
+	.my-plans-section .container .my-plans {
+    margin: 50px 0px 80px 0px;
+	}
+	.call-now-box {
+    margin-bottom: 100px;
+	}
+	footer {
+    padding: 60px 0px;
+	}
+	footer .footer-content-left .social-link h3 {
+    font-size: 38px;
+	}
+	footer .footer-content-right .subscribe h3 {
+    font-size: 22px;
+	}
+	footer .footer-content-left .social-link p {
+    padding-bottom: 15px;
+	}
+}
+
+
+@media (max-width: 767px){
+	.hero-banner-content {
+    padding: 0px 25px;
+	}
+	.hero-banner-content h1 {
+    font-size: 45px;
+	}
+	.hero-banner-section {
+    padding: 120px 0px;
+	}
+	.portfolio-section .container {
+    flex-direction: column;
+	}
+	.portfolio-section .col-2 .portfolio-content {
+    margin-bottom: 50px;
+	}
+	.portfolio-section .col-2 .portfolio-image {
+    padding: 0px 80px 0px;
+	}
+	.my-plans-section .container h4 {
+    font-size: 35px;
+	}
+	.my-plans-section .container .my-plans .col-4 .my-plans-box img {
+    height: 60px;
+	}
+	.my-plans-section .container .my-plans .col-4 .my-plans-box h3 {
+    font-size: 22px;
+	}
+	.my-plans-section .container .my-plans .col-4 .my-plans-box p {
+    font-size: 18px;
+	}
+	.call-now-content {
+    padding: 60px 20px 60px 0px;
+	}
+	.call-now-content h3 {
+    font-size: 32px;
+	}
+	.call-now-content a {
+    font-size: 16px;
+    padding: 15px 30px;
+	}
+	footer .container .col {
+    flex-basis: 100%;
+	}
+	footer .footer-content-left {
+    text-align: center;
+	}
+	footer .footer-content-left .social-link ul {
+    justify-content: center;
+	}
+	footer .footer-content-right {
+    width: 325px;
+    margin: 35px auto;
+    text-align: center;
+	}
+	footer .footer-content-right .subscribe form input[type="submit"] {
+    margin: auto;
+	}
+
+
+
+}
+
